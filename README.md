@@ -1,10 +1,8 @@
-## En construcción 🚧
-
 ***
-# <h1 align="center"> 💥Ing.Julio César Ortiz Pabón💥 </h1>
+# <h1 align="center"> 💥Ing. Julio César Ortiz Pabón💥 </h1>
 ***
 
-![img](assets/amigo-secreto-presentacion.png)
+![img](Inteligencia-artificial.jpg)
 
 <!--
 **jortiz112/jortiz112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
