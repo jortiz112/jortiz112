@@ -40,7 +40,7 @@ Desarrollo Web Front-End (HTML5, CSS3, JavaScript), Versionamiento Git y Github.
 
 ## 🌎 Redes sociales
 
-<img align="left" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+<img align="left" width="250" height="200" src="AI3.png">
 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-c%C3%A9sar-ortiz-pab%C3%B3n-014b4196)
