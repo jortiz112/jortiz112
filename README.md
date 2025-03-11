@@ -33,10 +33,7 @@ Desarrollo Web Front-End (HTML5, CSS3, JavaScript), Versionamiento Git y Github.
 | -------|-----------------|------------|----------|
 | [![Diseño](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | [![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) | [![Despliegue](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) | [![Editores](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |
 
-
 </div>
-
-
 
 ## 🌎 Redes sociales
 
@@ -45,3 +42,5 @@ Desarrollo Web Front-End (HTML5, CSS3, JavaScript), Versionamiento Git y Github.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-c%C3%A9sar-ortiz-pab%C3%B3n-014b4196)
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](jortiz112@hotmail.com)
+
+<img align="left" width="250" height="200" src="AI2.png">
