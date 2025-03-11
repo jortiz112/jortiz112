@@ -16,13 +16,24 @@ de Oracle y Pgsql de PostgreSql 10 para migrar información y obtener reportarí
 Standard (JSE) con JDK 8, manejo de SAP Power Disigner para la creación de un Modelo físico de Datos, generación del Script y
 creación de la base de datos con conexión a Oracle 8i o 9i, 10G, 11G y 12C, MySQL, PostgreSql, Microsoft SQL Server, SyBase.
 Conocimiento en Hardware y mantenimiento de computadores, destreza para documentar los desarrollos y proyectos a implementar.
-Desarrollo Web Front-End.
+Desarrollo Web Front-End (HTML5, CSS3, JavaScript), Versionamiento Git y Github.
 
 ```
 
 ## 🛠️ Tecnologías y herramientas
 
+<div align="left">
 
+| Frontend | Lenguajes |
+| ---------|-----------|
+| [![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![Lenguajes](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |
+
+| Diseño | Bases de Datos | Despliegue | Editores |
+| -------|-----------------|------------|----------|
+| [![Diseño](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | [![Bases de Datos](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev) | [![Despliegue](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) | [![Editores](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |
+
+
+</div>
 
 
 
