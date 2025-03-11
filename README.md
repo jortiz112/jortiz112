@@ -45,4 +45,4 @@ Desarrollo Web Front-End (HTML5, CSS3, JavaScript), Versionamiento Git y Github.
 
 <img width="387" height="152" align="left" width="250" height="200" src="AI.png">
 
-<img width="201" height="109" align="left" width="250" height="200" src="AI2.png">
+<img width="201" height="90" align="left" width="250" height="200" src="AI2.png">
