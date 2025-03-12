@@ -28,7 +28,7 @@ computadores, destreza para documentar los desarrollos y proyectos a implementar
 
 | Frontend | Lenguajes |
 | ---------|-----------|
-| [![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![Lenguajes](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |
+| [![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![Lenguajes](https://skillicons.dev/icons?i=java)](https://skillicons.dev) ![img](icons8-sql-48.png) |
 
 | Diseño | Bases de Datos | Despliegue | Editores |
 | -------|-----------------|------------|----------|
