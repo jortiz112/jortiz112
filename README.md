@@ -32,7 +32,7 @@ computadores, destreza para documentar los desarrollos y proyectos a implementar
 
 | Diseño | Bases de Datos | Despliegue | Editores |
 | -------|-----------------|------------|----------|
-| [![Diseño](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | [![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) | [![Despliegue](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) | [![Editores](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |
+| [![Diseño](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | [![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) ![img](icons8-logo-de-oracle-48.png) | [![Despliegue](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) | [![Editores](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |
 
 </div>
 
